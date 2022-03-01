@@ -9,6 +9,7 @@ namespace ReCapDemo1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //demo tahtası yapımı
             Button[,] buttons = new Button[8,8];
             int top = 0;
             int left = 0;
